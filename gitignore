@@ -1,0 +1,35 @@
+# Base de données locale
+*.db
+*.sqlite
+
+# Données brutes (trop lourdes pour GitHub)
+data/raw/
+data/clean/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Environnements virtuels
+venv/
+.env/
+env/
+
+# Secrets et clés API (IMPORTANT — ne jamais committer)
+.env
+secrets.py
+config_local.py
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Exports dashboard
+ferbs_dashboard.html
+ferbs_*.html
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
