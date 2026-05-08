@@ -1,5 +1,5 @@
 # ⚡ Ferbs Energy Intelligence
-
+🚀 **Live demo:** https://ferbs-energy-intelligence.onrender.com
 > **AI-powered energy data platform for Africa and emerging markets**  
 > Predict grid failures. Quantify energy risk. Empower investment decisions.
 
