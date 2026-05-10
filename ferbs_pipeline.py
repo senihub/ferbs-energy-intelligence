@@ -20,6 +20,7 @@ import os
 import time
 import os
 eia_key = os.environ.get("EIA_API_KEY")
+
 from datetime import datetime, timedelta
 from io import StringIO, BytesIO
 from typing import Optional
